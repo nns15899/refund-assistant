@@ -1,0 +1,8 @@
+I got a broken phone. Can I return it? (should find damaged items policy)
+
+How long do I have to return a book? (should find the 30-day rule)
+
+Can I return underwear? (should find the non-returnable list)
+
+What's your refund policy for cash on delivery? (should find COD refund timing)
+
